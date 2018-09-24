@@ -1,1 +1,7 @@
 PPPrimetimeTweak.dylib
+PPPrimetimeTweak-armv7.dylib
+PPPrimetimeTweak-arm64.dylib
+xs-orig-decrypted.ipa
+xs-patched-unsigned.ipa
+xs-patched-resigned.ipa
+unzipped/
